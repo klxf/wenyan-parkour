@@ -94,7 +94,7 @@
     乃得  甲.className = 乙
 是謂「名器」之術也。
 
-吾有一術。名之曰「示绩」。
+今有一術。名之曰「示绩」。
 欲行是術。必先得一數。曰「绩」。
 乃行是術曰。
 	乃得  document.getElementById('绩').innerHTML = 绩
